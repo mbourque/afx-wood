@@ -1,0 +1,3 @@
+board part
+wacky_wood part
+dir_up dir

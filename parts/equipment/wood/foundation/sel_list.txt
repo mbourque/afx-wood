@@ -1,0 +1,8 @@
+step-stone part_copy
+cinder-block part_copy
+blue-stone part_copy
+bricks asm_copy
+grass part_copy
+post-column asm_copy
+stone-steps asm_copy
+dir_up dir

@@ -1,0 +1,8 @@
+hanger part_copy
+2x4H part_copy
+2x6H part_copy
+2x8H part_copy
+2x10H part_copy
+2x12H part_copy
+new-jh part_copy
+dir_up dir

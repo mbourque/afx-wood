@@ -1,0 +1,4 @@
+stud part
+strapping part
+stringer part
+dir_up dir

@@ -1,0 +1,1 @@
+BUW_SIZE = BUW_X_SIZE_STR + "x" + BUW_Y_SIZE_STR + "x" + BUW_Z_SIZE_STR

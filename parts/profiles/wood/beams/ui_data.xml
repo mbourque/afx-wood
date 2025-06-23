@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui_data>
+  <entry name="Width" parameter="A"/>
+  <entry name="Height" parameter="B"/>
+  <entry name="Length" parameter="L"/>
+</ui_data>

@@ -1,0 +1,6 @@
+fin60 part_copy
+fin21 part_copy
+fin48 part_copy
+fin102 part_copy
+mantle part_copy
+dir_up dir

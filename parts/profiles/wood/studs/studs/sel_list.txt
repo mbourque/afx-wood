@@ -1,0 +1,2 @@
+stud part
+dir_up dir

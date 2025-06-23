@@ -1,0 +1,8 @@
+beam part
+laminated_beam part
+post part
+post-special part
+post-special2 part
+log part
+column part
+dir_up dir

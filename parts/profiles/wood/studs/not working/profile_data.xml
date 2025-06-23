@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile_data>
+  <parameter name="A" type="double" value="1.5"/>
+  <parameter name="B" type="double" value="3.5"/>
+  <parameter name="L" type="double" value="96"/>
+</profile_data>

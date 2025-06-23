@@ -1,0 +1,27 @@
+BEGIN_GUI_DESCR			
+			
+GLOBAL_PICTURE	column_tab.png		
+			
+SHOW_PARAM	DOUBLE	D	
+			
+END_GUI_DESCR			
+			
+BEGIN_TAB_DESCR			
+			
+			
+BEGIN_TABLE	SIZE	Diameter	
+SEL_STRING	BUW_SIZE	W	D
+STRING	STRING	DOUBLE	DOUBLE
+6 Inch Dia	6x6	6	6 	
+8 Inch Dia	8x8	8	8 	
+10 Inch Dia	10x10	10	10 	
+12 Inch Dia	12x12	12	12 	
+15 Inch Dia	15x15	15	15 	
+30 Inch Dia	30x30	30	30 	
+US Capitol 1	US Capitol 1	60	60 	
+Jefferson Memorial	Jefferson Memorial	66	66 	
+US Capitol 2	US Capitol 2	72	72 	
+Lincoln Memorial	Lincoln Memorial	90	90 	
+END_TABLE			
+			
+END_TAB_DESCR			

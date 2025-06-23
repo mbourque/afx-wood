@@ -1,0 +1,4 @@
+transom-window asm_copy
+bay_window asm_copy
+window_dh part_copy
+dir_up dir

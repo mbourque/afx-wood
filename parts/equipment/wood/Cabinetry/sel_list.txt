@@ -1,0 +1,3 @@
+bookcase asm_copy
+cabinet asm_copy
+dir_up dir
