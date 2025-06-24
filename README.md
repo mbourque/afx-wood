@@ -42,6 +42,9 @@ Typical workflow:
 * Windows (inches-based units)
 * \[Installer script coming soon]
 
+## Installation is manual
+* Extract the folder contents of "parts" over your existing install at <common>/afx/parts
+
 ## Roadmap
 
 * Add more door and window types, decorative and structural elements
