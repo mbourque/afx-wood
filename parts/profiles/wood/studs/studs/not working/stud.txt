@@ -1,4 +1,0 @@
-             Designation:	W	H	W2	H2
-                   SIZE_1	2	1	1	0.5
-                   SIZE_2	3	1.5	1.25	0.75
-                   SIZE_3	4	2	2	1

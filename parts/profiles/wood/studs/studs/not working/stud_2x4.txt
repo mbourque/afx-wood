@@ -1,4 +1,0 @@
-             Designation:	W	H	L
-                   SIZE_1	2	4	96
-                   SIZE_2	3	1.5	1200
-                   SIZE_3	4	2	36
