@@ -5,4 +5,5 @@ bricks asm_copy
 grass part_copy
 post-column asm_copy
 stone-steps asm_copy
+cinder-block-foundation asm_copy
 dir_up dir
