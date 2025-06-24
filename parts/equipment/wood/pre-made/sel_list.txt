@@ -1,0 +1,2 @@
+stairs asm_copy
+dir_up dir

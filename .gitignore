@@ -2,6 +2,7 @@
 Changelog.html
 License.txt
 reviewref.inf
+*.xpr
 
 # Common configuration and data folders (ignored at root)
 configuration/
