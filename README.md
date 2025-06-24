@@ -56,4 +56,4 @@ The library is in active development. Most standard framing elements are complet
 
 ---
 
-**Note:** This is a work in progress. Contributions and feedback are welcome. Future releases will include a detailed developer’s guide and more automation tools.
+**Note:** This is a work in progress. Contributions and feedback are welcome. Future releases will include a detailed developers guide and more automation tools.
