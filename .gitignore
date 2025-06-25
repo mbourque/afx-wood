@@ -151,4 +151,5 @@ parts/bend_profiles/steel_beams_mm/
 
 # GRAB THESE TOO
 !text/usascii/afx_hardcoded.txt
+!configuration/drawing_templates/efx_c_template.drw
 
