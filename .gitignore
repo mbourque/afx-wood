@@ -148,3 +148,7 @@ parts/bend_profiles/aluminium_profiles_mm/
 parts/bend_profiles/param_relations.txt
 parts/bend_profiles/steel_beams_inch/
 parts/bend_profiles/steel_beams_mm/
+
+# GRAB THESE TOO
+!text/usascii/modelnames.txt
+
