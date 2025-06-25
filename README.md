@@ -43,7 +43,7 @@ Typical workflow:
 * \[Installer script coming soon]
 
 ## Installation is manual
-* Extract the folder contents over your existing install at <common>/afx/parts
+* Extract the folder contents over your existing install at <common>/afx
 
 ## Roadmap
 
