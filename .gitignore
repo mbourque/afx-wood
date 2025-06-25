@@ -5,7 +5,6 @@ reviewref.inf
 *.xpr
 
 # Common configuration and data folders (ignored at root)
-configuration/
 customization/
 demo/
 drawing_formats/
