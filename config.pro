@@ -1,0 +1,10 @@
+﻿dpi_scale 150
+file_open_default_folder working_directory
+save_file_iterations no
+save_texture_with_model yes
+save_instance_accelerator always
+default_dec_places 3
+show_selected_item_id yes
+sketcher_line_width 3.00
+suppress_license_loss_dialog yes
+sketcher_lock_symmetry_axis yes
