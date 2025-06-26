@@ -3,6 +3,7 @@ Changelog.html
 License.txt
 reviewref.inf
 *.xpr
+trail.txt.*
 
 # Common configuration and data folders (ignored at root)
 customization/
