@@ -24,7 +24,7 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 ## Parametric Modeling Standards
 
 * **Parameters & Relations:**
-  All options (size, length, offset, etc.) are controlled by parameters and relations. **No family tables.**
+  All options (size, length, offset, etc.) are controlled by parameters, pro/program, and relations. **No family tables.**
 * **BUW\_NAME:**
   Assign to every part for easy identification.
 * **Textures & Appearances:**
@@ -86,6 +86,7 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 
 * Place new items in the proper folder.
 * Use consistent, descriptive names for all parts and assemblies.
+* edit the sel_list.txt file
 * Document logic or non-obvious setups in `/docs` or the README.
 * All configurable features must use parameters.
 
