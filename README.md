@@ -43,7 +43,10 @@ Typical workflow:
 * \[Installer script coming soon]
 
 ## Installation is manual
-* Extract the folder contents over your existing install at <common>/afx
+* Store the afx-wood folder on your computer
+* Configure the AFX setting CUSTOMIZATION_PATH to point to this location:
+* Set CUSTOMIZATION_PATH to something like c:/ptc/afx-wood
+* Restart Creo
 
 ## Roadmap
 
