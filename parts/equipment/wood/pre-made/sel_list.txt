@@ -1,4 +1,5 @@
 8-foot-stud-wall asm_copy
 stairs asm_copy
 fence asm_copy
+fence-wall asm_copy
 dir_up dir
