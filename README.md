@@ -12,6 +12,7 @@ This library adds a comprehensive set of standard wood framing components to Cre
 * Foundation elements (sills, columns, footings, cinder blocks)
 * Roofing, stair parts, and decorative elements
 * Pre-built skeleton models for rapid top-down assembly
+* Fence posts, rails, and pickets
 * Built-in simplified representation for details
 
 All components are fully parametric and configurable, supporting efficient design changes and robust model updates. The library supports advanced modeling workflows, such as top-down skeleton-driven assemblies, copy geometry propagation, and parametric patterning (e.g., studs at 16" on center).
@@ -39,8 +40,8 @@ Typical workflow:
 ## Requirements
 
 * PTC Creo 11.0 or later
-* Advanced Framework Extension (AFX) license
-* Windows (inches-based units)
+* Advanced Framework Extension (AFX)
+* Inches-based units
 * \[Installer script coming soon]
 
 ## Installation is manual
@@ -63,4 +64,4 @@ The library is in active development. Most standard framing elements are complet
 
 ---
 
-**Note:** This is a work in progress. Contributions and feedback are welcome. Read the DEVELOPERS.md guide and more automation tools.
+**Note:** This is a work in progress. Contributions and feedback are welcome. Read the [DEVELOPERS.md](https://github.com/mbourque/afx-wood/blob/master/DEVELOPERS.md) guide and more automation tools.
