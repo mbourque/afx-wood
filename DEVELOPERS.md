@@ -80,6 +80,9 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
    * Assign proper materials to all parts for mass and stress calculations.
    * Validate assemblies with global interference checks and mass calculations.
 
+6. **Simplified representations**
+
+  * Assign a suppressed feature parameter names BUW_REP_LEVEL to MEDIUM_DETAIL
 ---
 
 ## Adding & Extending Content
