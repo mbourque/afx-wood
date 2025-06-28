@@ -64,4 +64,4 @@ The library is in active development. Most standard framing elements are complet
 
 ---
 
-**Note:** This is a work in progress. Contributions and feedback are welcome. Read the DEVELOPERS.md guide and more automation tools.
+**Note:** This is a work in progress. Contributions and feedback are welcome. Read the DEVELOPERS.md](https://github.com/mbourque/afx-wood/blob/master/DEVELOPERS.md) guide and more automation tools.
