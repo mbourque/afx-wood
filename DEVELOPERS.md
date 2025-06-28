@@ -82,7 +82,7 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 
 6. **Simplified representations**
 
-  * Assign a suppressed feature parameter names BUW_REP_LEVEL to MEDIUM_DETAIL
+    * Assign a suppressed feature parameter names BUW_REP_LEVEL to MEDIUM_DETAIL
 ---
 
 ## Adding & Extending Content
