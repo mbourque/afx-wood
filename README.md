@@ -25,7 +25,7 @@ All components are fully parametric and configurable, supporting efficient desig
 * **Pre-made assemblies:** stud walls, rafters, fences, skeletons, and more
 * **Helper guides:** correct framing for windows, doors, and complex openings
 * **Panels & finishes:** plywood, siding, flooring, roofing, and insulation parts
-* **Decorative and specialty items:** ceiling medallions, trim, ironwork, bookcases
+* **Decorative and specialty items:** ceiling medallions, trim, shutters, ironwork, bookcases
 
 ## Usage
 
