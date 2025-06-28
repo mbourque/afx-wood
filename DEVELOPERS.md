@@ -13,6 +13,8 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 /equipment        # Foundation, steel, utility parts  
 /connectors       # Joist hangers, brackets, hardware  
 /bend_profiles    # for curved profiles  
+/configuration     # for configuration 
+/text              # for text based settings
 ```
 
 * Hyphens in all file/folder names (e.g., `back-wall.asm`)
