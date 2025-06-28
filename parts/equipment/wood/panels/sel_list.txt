@@ -8,6 +8,7 @@ floor_laminate part_copy
 drywall part_copy
 insulation part_copy
 plywood part_copy
+plywood-w-window part_copy
 door_hl part_copy
 door_test part_copy
 wainscotting part_copy
