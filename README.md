@@ -40,8 +40,8 @@ Typical workflow:
 ## Requirements
 
 * PTC Creo 11.0 or later
-* Advanced Framework Extension (AFX) license
-* Windows (inches-based units)
+* Advanced Framework Extension (AFX)
+* Inches-based units
 * \[Installer script coming soon]
 
 ## Installation is manual
