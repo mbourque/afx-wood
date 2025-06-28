@@ -5,4 +5,5 @@ beams dir
 mouldings dir
 steel dir
 foundation dir
+fences dir
 dir_up dir

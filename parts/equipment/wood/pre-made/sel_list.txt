@@ -4,4 +4,5 @@ fence asm_copy
 fence-wall asm_copy
 speaker asm_copy
 top-down-template asm_copy
+wood-fence asm_copy
 dir_up dir
