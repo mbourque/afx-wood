@@ -12,6 +12,7 @@ This library adds a comprehensive set of standard wood framing components to Cre
 * Foundation elements (sills, columns, footings, cinder blocks)
 * Roofing, stair parts, and decorative elements
 * Pre-built skeleton models for rapid top-down assembly
+* Built-in simplified representation for details
 
 All components are fully parametric and configurable, supporting efficient design changes and robust model updates. The library supports advanced modeling workflows, such as top-down skeleton-driven assemblies, copy geometry propagation, and parametric patterning (e.g., studs at 16" on center).
 
