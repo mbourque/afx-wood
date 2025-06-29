@@ -134,12 +134,13 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 
 ---
 
-## Requirements
+## Requirements and configuration 
 
 * Creo 11.0 or later with AFX
 * Windows, inch units
 * `save_texture_with_model = yes` in config.pro
-
+* `create_external_refs same_model`
+* `reference_control restricted`
 ---
 
 ## Notes
