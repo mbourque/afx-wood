@@ -1,6 +1,7 @@
 stud_wall asm_copy
 2x4x8-stud-wall asm_copy
 glass part_copy
+dbl-pane-glass part_copy
 door_frame asm_copy
 wave_roof part_copy
 wood_panel part_copy
