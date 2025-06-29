@@ -58,6 +58,11 @@ Typical workflow:
 * Documentation and user guide
 * Open source release for community contribution
 
+## Config option suggestion 
+* create_external_refs same_model
+* reference_control restricted
+* save_texture_with_model yes
+
 ## Status
 
 The library is in active development. Most standard framing elements are complete. Upcoming work includes expanded window/door options, panel materials, and automation tools. An installer script is provided to patch the Creo AFX module for library integration.
