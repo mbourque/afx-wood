@@ -2,4 +2,5 @@ new-jh part_copy
 new-angle-jh part_copy
 nail-plate part_copy
 new-nail-plate part_copy
+roof-strap part_copy
 dir_up dir
