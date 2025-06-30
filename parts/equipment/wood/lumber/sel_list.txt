@@ -1,9 +1,9 @@
-2x4 part_copy
-2x4x8-plate part_copy
-2x4x8-stud part_copy
-precut-2x4-stud part_copy
-2x6 part_copy
-2x8 part_copy
-2x10 part_copy
-2x12 part_copy
+2x3	dir
+2x4	dir
+2x6	dir
+2x8	dir
+2x10	dir
+2x12	dir
+2x14	dir
+Pressure-Treated	dir
 dir_up dir

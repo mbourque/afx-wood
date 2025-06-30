@@ -1,0 +1,2 @@
+2x14x8	part_copy
+dir_up dir

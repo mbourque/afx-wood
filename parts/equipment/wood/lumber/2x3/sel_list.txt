@@ -1,0 +1,4 @@
+2x3x6	part_copy
+2x3x8	part_copy
+2x3x10	part_copy
+dir_up dir

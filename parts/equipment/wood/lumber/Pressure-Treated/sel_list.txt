@@ -1,0 +1,3 @@
+pt-2x4x8	part_copy
+pt-2x4x16	part_copy
+dir_up dir

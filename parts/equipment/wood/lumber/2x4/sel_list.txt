@@ -1,0 +1,6 @@
+2x4	part_copy
+2x4x8	part_copy
+2x4x8-plate	part_copy
+2x4x8-stud	part_copy
+precut-2x4	part_copy
+dir_up dir
