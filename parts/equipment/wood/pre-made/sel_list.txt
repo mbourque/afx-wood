@@ -6,6 +6,7 @@ speaker asm_copy
 top-down-template asm_copy
 wood-fence asm_copy
 vinyl-fence asm_copy
+vinyl-entrance asm_copy
 wood-shutter asm_copy
 vinyl-shutter asm_copy
 truss asm_copy

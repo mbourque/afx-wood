@@ -1,4 +1,8 @@
-fence-post part
-fence-rail part
-fence-pickets part
+fence-post part_copy
+fence-rail part_copy
+fence-pickets part_copy
+vinyl-post part_copy
+vinyl-rail part_copy
+vinyl-pickets part_copy
+vinyl-arch part_copy
 dir_up dir
