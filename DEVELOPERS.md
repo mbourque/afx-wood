@@ -94,7 +94,7 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 * edit the sel_list.txt file
 * Document logic or non-obvious setups in `/docs` or the README.
 * All configurable features must use parameters.
-
+* Add matching named .png imsge files for each part or assembly, this should be 150px square and placed into corresponding locations 
 ---
 
 ## Appearance & Textures
