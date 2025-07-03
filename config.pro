@@ -19,3 +19,4 @@ default_dec_places 3
 default_ext_ref_scope none
 default_geom_scope pg_only
 default_placement_scope all
+display_combined_views yes
