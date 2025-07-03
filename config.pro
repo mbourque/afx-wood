@@ -9,3 +9,13 @@ suppress_license_loss_dialog yes
 sketcher_lock_symmetry_axis yes
 create_external_refs same_model
 reference_control restricted
+sketcher_instant_snap_to_model no
+skeleton_model_default_color 100 65 0
+default_object_scope_setting none
+multiple_skeletons_allowed yes
+section_color sketch_color
+sketcher_line_width 3
+default_dec_places 3
+default_ext_ref_scope none
+default_geom_scope pg_only
+default_placement_scope all
