@@ -1,6 +1,5 @@
 panels dir
 windows dir
-plates_inch dir
 decorative dir
 lumber dir
 foundation dir
