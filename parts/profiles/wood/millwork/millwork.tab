@@ -1,0 +1,78 @@
+BEGIN_GUI_DESCR			
+			
+GLOBAL_PICTURE	millwork_tab.png		
+			
+SHOW_PARAM	DOUBLE	PR1	
+SHOW_PARAM	DOUBLE	W	
+SHOW_PARAM	DOUBLE	H	
+
+
+			
+END_GUI_DESCR			
+			
+BEGIN_TAB_DESCR			
+			
+			
+BEGIN_TABLE	SIZE	PR1	
+SEL_STRING	W	H	PR1	BUW_NAME
+STRING	DOUBLE	DOUBLE	DOUBLE	STRING
+2-1/4" x 3/4" Colonial Door Casing	2.25	0.75	1	2-1/4" x 3/4" Colonial Door Casing
+3" x 3/4" Door Casing	3	0.75	1	3" x 3/4" Door Casing
+3-1/2" x 3/4" Door Casing	3.5	0.75	1	3-1/2" x 3/4" Door Casing
+4" x 3/4" Door Casing	4	0.75	1	4" x 3/4" Door Casing
+5" x 3/4" Door Casing	5	0.75	1	5" x 3/4" Door Casing
+6" x 3/4" Door Casing	6	0.75	1	6" x 3/4" Door Casing
+4" x 1" Door Casing	4	1	1	4" x 1" Door Casing
+5" x 1" Door Casing	5	1	1	5" x 1" Door Casing
+6" x 1" Door Casing	6	1	1	6" x 1" Door Casing
+8" x 1" Door Casing	8	1	1	8" x 1" Door Casing
+4" x 3/4" Window Casing	4	0.75	2	4" x 3/4" Window Casing
+4" x 3/4" Plain Window Casing	4	0.75	0	4" x 3/4" Plain Window Casing
+5" x 3/4" Window Casing	5	0.75	2	5" x 3/4" Window Casing
+5" x 3/4" Plain Window Casing	5	0.75	0	5" x 3/4" Plain Window Casing
+6" x 3/4" Window Casing	6	0.75	2	6" x 3/4" Window Casing
+6" x 3/4" Plain Window Casing	6	0.75	0	6" x 3/4" Plain Window Casing
+4" x 1" Window Casing	4	1	2	4" x 1" Window Casing
+4" x 1" Plain Window Casing	4	1	0	4" x 1" Plain Window Casing
+5" x 1" Window Casing	5	1	2	5" x 1" Window Casing
+5" x 1" Plain Window Casing	5	1	0	5" x 1" Plain Window Casing
+6" x 1" Window Casing	6	1	2	6" x 1" Window Casing
+6" x 1" Plain Window Casing	6	1	0	6" x 1" Plain Window Casing
+1-1/4" x 3/4" Stop	1.25	0.75	3	1-1/4" x 3/4" Stop
+2" x 3/4" Stop	2	0.75	3	2" x 3/4" Stop
+3-1/2" x 3/4" Apron	3.5	0.75	4	3-1/2" x 3/4" Apron
+4-1/2" x 3/4" Apron	4.5	0.75	4	4-1/2" x 3/4" Apron
+3-1/2" x 1" Apron	3.5	1	4	3-1/2" x 1" Apron
+4-1/2" x 1" Apron	4.5	1	4	4-1/2" x 1" Apron
+2-1/4" x 1" Stool	2.25	1	7	2-1/4" x 1" Stool
+4" x 1-1/4" Stool	4	1.25	7	4" x 1-1/4" Stool
+4-1/2" x 1-1/4" Jamb	4.5	1.25	6	4-1/2" x 1-1/4" Jamb
+5-1/2" x 1-1/4" Jamb	5.5	1.25	6	5-1/2" x 1-1/4" Jamb
+6-1/2" x 1-1/4" Jamb	6.5	1.25	6	6-1/2" x 1-1/4" Jamb
+3" x 3/4" Sill	3	0.75	7	3" x 3/4" Sill
+4" x 3/4" Sill	4	0.75	7	4" x 3/4" Sill
+3" x 1" Sill	3	1	7	3" x 1" Sill
+3" x 1-1/4" Sill	3	1.25	7	3" x 1-1/4" Sill
+4" x 1-1/4" Sill	4	1.25	7	4" x 1-1/4" Sill
+1-3/4" x 4-1/2" Exterior Beveled Sill	1.75	4.5	11	1-3/4" x 4-1/2" Exterior Beveled Sill	Beveled sill
+1-3/8" x 1-3/4" Sash	1.375	1.75	10	1-3/8" x 1-3/4" Sash Std double-hung
+1-3/8" x 2-1/4" Sash	1.375	2.25	10	1-3/8" x 2-1/4" Sash Wide/top rail
+1-3/4" x 2-1/4" Sash	1.75	2.25	10	1-3/4" x 2-1/4" Heavy Sash
+1-3/4" x 2-1/2" Sash	1.75	2.5	10	1-3/4" x 2-1/2" Large Sash
+1-3/4" x 3" Sash	1.75	3	10	1-3/4" x 3" Picture Sash
+6" x 1-1/2" Threshold	6	1.5	8	6" x 1-1/2" Threshold
+8" x 1-1/2" Threshold	8	1.5	8	8" x 1-1/2" Threshold
+1-1/16" x 1-1/4" Backband BB108	1.0625	1.25	9	1-1/16" x 1-1/4" Backband BB108
+1-1/16" x 1-5/16" Backband BB107	1.0625	1.3125	9	1-1/16" x 1-5/16" Backband BB107
+1-3/16" x 1-1/4" Backband BB109	1.1875	1.25	9	1-3/16" x 1-1/4" Backband BB109
+1-1/4" x 1-3/8" Backband BB106	1.25	1.375	9	1-1/4" x 1-3/8" Backband BB106
+1-1/4" x 1-1/4" Backband BB101	1.25	1.25	9	1-1/4" x 1-1/4" Backband BB101
+1-1/4" x 1-3/8" Backband BB105	1.25	1.375	9	1-1/4" x 1-3/8" Backband BB105
+1-3/8" x 1-1/4" Backband BB103	1.375	1.25	9	1-3/8" x 1-1/4" Backband BB103
+1-3/8" x 1-1/4" Backband BB104	1.375	1.25	9	1-3/8" x 1-1/4" Backband BB104
+1-1/2" x 1-1/4" Backband BB102	1.5	1.25	9	1-1/2" x 1-1/4" Backband BB102
+1-3/4" x 1-1/4" Backband BB111	1.75	1.25	9	1-3/4" x 1-1/4" Backband BB111
+2-3/8" x 1-1/4" Backband BB110	2.375	1.25	9	2-3/8" x 1-1/4" Backband BB110
+END_TABLE
+			
+END_TAB_DESCR			

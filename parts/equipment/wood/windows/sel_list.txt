@@ -1,7 +1,9 @@
+window-sash asm_copy
 transom-window asm_copy
 bay_window asm_copy
 window_dh part_copy
 oct-window asm_copy
 double-hung asm_copy
 dbl-hung asm_copy
+casement-window asm_copy
 dir_up dir

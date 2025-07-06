@@ -3,5 +3,6 @@ fin21 part_copy
 fin48 part_copy
 fin102 part_copy
 mantle part_copy
+plynth-block part_copy
 tin-ceiling part_copy
 dir_up dir
