@@ -5,4 +5,5 @@ post-special part
 post-special2 part
 log part
 column part
+../steel dir
 dir_up dir

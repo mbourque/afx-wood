@@ -1,2 +1,4 @@
-rebar part
+rebar part_copy
+i_beam part_copy
+i_beam_s part_copy
 dir_up dir
