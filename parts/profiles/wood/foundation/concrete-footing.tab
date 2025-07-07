@@ -1,0 +1,28 @@
+BEGIN_GUI_DESCR			
+			
+GLOBAL_PICTURE	concrete-footing_tab.png		
+			
+SHOW_PARAM	DOUBLE	W	
+SHOW_PARAM	DOUBLE	H	
+			
+END_GUI_DESCR			
+			
+BEGIN_TAB_DESCR			
+			
+			
+BEGIN_TABLE	SIZE	WxH	
+SEL_STRING	BUW_SIZE	W	H
+STRING	STRING	DOUBLE	DOUBLE
+10" x 1'	10" x 1'	12	10
+12" x 1'	12" x 1'	12	12
+14" x 1'	14" x 1'	12	14
+10" x 2'	10" x 2'	24	10
+12" x 2'	12" x 2'	24	12
+14" x 2'	14" x 2'	24	14
+10" x 4'	10" x 4'	48	10
+12" x 4'	12" x 4'	48	12
+14" x 4'	14" x 4'	48	14
+20" x 4'	20" x 4'	48	20
+END_TABLE			
+			
+END_TAB_DESCR			

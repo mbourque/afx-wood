@@ -2,10 +2,12 @@ concrete-lag-bolt part_copy
 step-stone part_copy
 brick part_copy
 cinder-block part_copy
+concrete-deck-block part_copy
 blue-stone part_copy
 bricks asm_copy
 grass part_copy
 post-column asm_copy
 stone-steps asm_copy
 cinder-block-foundation asm_copy
+concrete-tube part_copy
 dir_up dir
