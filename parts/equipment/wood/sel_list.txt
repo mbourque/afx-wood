@@ -3,6 +3,7 @@ windows dir
 decorative dir
 lumber dir
 foundation dir
+template-models dir
 joist-hangers dir
 Cabinetry dir
 pre-made dir

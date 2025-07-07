@@ -1,0 +1,15 @@
+part_no_constraints part_copy
+part_csys part_copy
+part_3_points part_copy
+part_3_planes part_copy
+part_point_2_planes part_copy
+part_plane_point_plane part_copy
+part_2_planes_point part_copy
+assembly_no_constraints asm_copy
+assembly_csys asm_copy
+assembly_3_points asm_copy
+assembly_3_planes asm_copy
+assembly_point_2_planes asm_copy
+assembly_plane_point_plane asm_copy
+assembly_2_planes_point asm_copy
+dir_up dir
