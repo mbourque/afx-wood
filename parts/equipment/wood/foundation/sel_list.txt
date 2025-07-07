@@ -1,5 +1,6 @@
 concrete-lag-bolt part_copy
 step-stone part_copy
+brick part_copy
 cinder-block part_copy
 blue-stone part_copy
 bricks asm_copy

@@ -49,12 +49,9 @@ STRING	DOUBLE	DOUBLE	DOUBLE	STRING
 4-1/2" x 1-1/4" Jamb	4.5	1.25	6	4-1/2" x 1-1/4" Jamb
 5-1/2" x 1-1/4" Jamb	5.5	1.25	6	5-1/2" x 1-1/4" Jamb
 6-1/2" x 1-1/4" Jamb	6.5	1.25	6	6-1/2" x 1-1/4" Jamb
-3" x 3/4" Sill	3	0.75	7	3" x 3/4" Sill
-4" x 3/4" Sill	4	0.75	7	4" x 3/4" Sill
-3" x 1" Sill	3	1	7	3" x 1" Sill
-3" x 1-1/4" Sill	3	1.25	7	3" x 1-1/4" Sill
-4" x 1-1/4" Sill	4	1.25	7	4" x 1-1/4" Sill
-1-3/4" x 4-1/2" Exterior Beveled Sill	1.75	4.5	11	1-3/4" x 4-1/2" Exterior Beveled Sill	Beveled sill
+4-3/4" x 1-3/4" Window Sill	4.75	1.75	11	4-3/4" x 1-3/4" Exterior Beveled Window Sill
+4-3/4" x 2" Window Sill	4.75	2.00	11	4-3/4" x 2" Exterior Beveled Window Sill
+5" x 2" Window Sill	5.00	2.00	11	5" x 2" Exterior Beveled Window Sill
 1-3/8" x 1-3/4" Sash	1.375	1.75	10	1-3/8" x 1-3/4" Sash Std double-hung
 1-3/8" x 2-1/4" Sash	1.375	2.25	10	1-3/8" x 2-1/4" Sash Wide/top rail
 1-3/4" x 2-1/4" Sash	1.75	2.25	10	1-3/4" x 2-1/4" Heavy Sash
@@ -62,6 +59,7 @@ STRING	DOUBLE	DOUBLE	DOUBLE	STRING
 1-3/4" x 3" Sash	1.75	3	10	1-3/4" x 3" Picture Sash
 6" x 1-1/2" Threshold	6	1.5	8	6" x 1-1/2" Threshold
 8" x 1-1/2" Threshold	8	1.5	8	8" x 1-1/2" Threshold
+1" x 1" Step Moulding	1	1	12	1" x 1" Step Moulding
 1-1/16" x 1-1/4" Backband BB108	1.0625	1.25	9	1-1/16" x 1-1/4" Backband BB108
 1-1/16" x 1-5/16" Backband BB107	1.0625	1.3125	9	1-1/16" x 1-5/16" Backband BB107
 1-3/16" x 1-1/4" Backband BB109	1.1875	1.25	9	1-3/16" x 1-1/4" Backband BB109

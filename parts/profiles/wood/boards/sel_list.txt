@@ -1,3 +1,4 @@
-board part
-wacky_wood part
+board part_copy
+wacky_wood part_copy
+tongue-groove part_copy
 dir_up dir
