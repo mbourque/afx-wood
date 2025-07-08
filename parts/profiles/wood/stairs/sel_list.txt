@@ -1,0 +1,14 @@
+tread part_copy           
+riser part_copy           
+stringer part_copy        
+newel-post part_copy      
+handrail part_copy        
+baluster part_copy        
+baserail part_copy        
+landing part_copy         
+apron part_copy           
+skirt-board part_copy     
+nosing part_copy          
+stair-bracket part_copy   
+cove-molding part_copy    
+dir_up dir        

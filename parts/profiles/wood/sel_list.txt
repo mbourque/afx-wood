@@ -7,4 +7,5 @@ steel dir
 foundation dir
 millwork dir
 fences dir
+stairs dir
 dir_up dir
