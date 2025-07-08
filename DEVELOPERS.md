@@ -115,6 +115,17 @@ if the necessary geometry exists.
 * Confirm `save_texture_with_model = yes` is set so appearances are always preserved and portable.
 * Provide a config setting if developers need to adjust default appearances.
 
+
+## Parameters 
+
+There are six default system parameters for each profile assembled with Creo Advanced Framework. All other elements have three default system parameters. These parameters are either stored as fixed values in the profile or element parameters, or are controlled during assembly or regeneration, as follows:
+* BUW_NAME — Contains the profile or element name (angle, pipe, or end plate). This value is stored as a fixed value in the profile, connector, or equipment element and does not change.
+* BUW_TYPE — Contains a description of profile or element type such as the supplier and element order number of aluminum profile systems.
+* BUW_SIZE — Contains the profile or element size information such as L4x4x1/2 for an angle or extra strong 3 for a pipe. The value is either saved as a fixed library part value or is controlled by Creo Advanced Framework when a size list is available during element selection.
+* BUW_LENGTH — Contains the profile cut length rendered as a number. The value adjusts after each regeneration.
+* BUW_LENGTH_STR — Contains the profile cut length rendered as text. The value adjusts after each regeneration.
+* BUW_PROFIL_TYPE — Contains the library profile part name. You cannot change this value.
+
 ---
 
 ## Best Practices
