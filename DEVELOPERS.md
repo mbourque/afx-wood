@@ -97,6 +97,18 @@ AFX for Wood Construction is a library for PTC Creo that extends AFX with parame
 * Add matching named .png imsge files for each part or assembly, this should be 150px square and placed into corresponding locations 
 ---
 
+## Smart Automation 
+
+You can use Creos built-in Pro/PROGRAM 
+language to automate your CAD parts and 
+assemblies. First, you create the models 
+feature structure and use logic statements 
+to control feature suppression. This 
+approach is especially useful when you 
+want to build intelligent models, 
+such as adding a chamfer feature only 
+if the necessary geometry exists.
+
 ## Appearance & Textures
 
 * Assign default appearances and textures for all parts.
