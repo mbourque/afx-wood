@@ -13,11 +13,11 @@ BEGIN_TABLE	SIZE	Diameter
 SEL_STRING	H
 STRING	DOUBLE
 1/8" Diameter	0.125
-3/16" Diameter	0.1875
+3/16" Diameter	0.187
 1/4" Diameter	0.25
-5/16" Diameter	0.3125
+5/16" Diameter	0.312
 3/8" Diameter	0.375
-7/16" Diameter	0.4375
+7/16" Diameter	0.437
 1/2" Diameter	0.5
 5/8" Diameter	0.625
 3/4" Diameter	0.75
