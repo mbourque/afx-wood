@@ -6,6 +6,7 @@ foundation dir
 template-models dir
 joist-hangers dir
 Cabinetry dir
+hardware dir
 stairs dir
 pre-made dir
 electrical dir
