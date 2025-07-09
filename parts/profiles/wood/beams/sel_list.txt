@@ -1,4 +1,5 @@
 beam part
+pole part
 laminated_beam part
 post part
 post-special part

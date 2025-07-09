@@ -10,4 +10,5 @@ stairs dir
 pre-made dir
 electrical dir
 floor-plans dir
+skeletons dir
 fences dir

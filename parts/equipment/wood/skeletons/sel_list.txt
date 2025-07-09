@@ -1,0 +1,6 @@
+gable_skel part_copy
+stairs_skel part_copy
+roof_skel part_copy
+house_skel part_copy
+shed_skel part_copy
+fences_skel dir
