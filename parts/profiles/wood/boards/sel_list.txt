@@ -1,4 +1,5 @@
 board part_copy
+bead-board part_copy
 wacky_wood part_copy
 tongue-groove part_copy
 tongue-groove-floor part_copy
