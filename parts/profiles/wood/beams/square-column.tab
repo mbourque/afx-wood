@@ -1,0 +1,23 @@
+BEGIN_GUI_DESCR			
+			
+GLOBAL_PICTURE	square-column_tab.png		
+			
+USER_TAB_UPDATE_PARAM	DOUBLE	W	
+			
+END_GUI_DESCR			
+			
+BEGIN_TAB_DESCR			
+			
+			
+BEGIN_TABLE	SIZE	Width	
+SEL_STRING	BUW_SIZE	BUW_TYPE	W
+STRING	STRING	STRING	DOUBLE
+6 Inch Sq.	6"	Square	6	
+8 Inch Sq.	8"	Square	8 	
+10 Inch Sq.	10"	Square	10 	
+12 Inch Sq.	12"	Square	12 	
+15 Inch Sq.	15"	Square	15 	
+30 Inch Sq.	30"	Square	30 	
+END_TABLE			
+			
+END_TAB_DESCR			

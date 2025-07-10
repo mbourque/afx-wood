@@ -3,6 +3,7 @@ wood-floor asm_copy
 stairs asm_copy
 fence asm_copy
 fence-wall asm_copy
+square-column asm_copy
 speaker asm_copy
 top-down-template asm_copy
 wood-fence asm_copy
