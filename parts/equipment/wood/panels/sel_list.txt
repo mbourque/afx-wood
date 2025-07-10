@@ -13,6 +13,8 @@ floor_wood part_copy
 floor_laminate part_copy
 drywall part_copy
 insulation part_copy
+wood_4_lines part_copy
+paneling part_copy
 plywood part_copy
 plywood-w-window part_copy
 door_hl part_copy
