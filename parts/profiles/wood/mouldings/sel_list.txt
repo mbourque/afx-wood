@@ -3,6 +3,7 @@ half-round part
 quarter-round part
 casing part
 round part
+dental part_copy
 mullion part
 chair-rail part
 profiles part
