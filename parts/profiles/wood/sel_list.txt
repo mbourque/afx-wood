@@ -8,4 +8,6 @@ foundation dir
 millwork dir
 fences dir
 stairs dir
+spindles dir
+mechanical dir
 dir_up dir

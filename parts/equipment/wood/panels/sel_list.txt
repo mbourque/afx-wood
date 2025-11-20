@@ -1,6 +1,8 @@
 lattice part_copy
+../lumber/plywood dir
 stud_wall asm_copy
 tongue-groove-wall asm_copy
+tongue-groove-bead-wall asm_copy
 2x4x8-stud-wall asm_copy
 smart-wall asm_copy
 glass part_copy

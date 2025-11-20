@@ -13,8 +13,11 @@ vinyl-entrance asm_copy
 wood-shutter asm_copy
 vinyl-shutter asm_copy
 truss asm_copy
+pallet asm_copy
+clapboards asm_copy
 roof-system asm_copy
 floor-system asm_copy
 arch-ceiling asm_copy
 box asm_copy
+furniture dir
 dir_up dir
