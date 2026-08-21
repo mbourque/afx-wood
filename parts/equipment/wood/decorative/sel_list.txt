@@ -6,4 +6,5 @@ mantle part_copy
 plynth-block part_copy
 tin-ceiling part_copy
 corbel part_copy
+weathervane asm_copy
 dir_up dir

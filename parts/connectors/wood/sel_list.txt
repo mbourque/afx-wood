@@ -1,3 +1,4 @@
 brackets dir
 auto-joist-hangers dir
+../../equipment/wood/assorted/cleats dir
 dir_up dir
