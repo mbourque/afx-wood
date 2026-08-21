@@ -1,0 +1,4 @@
+louver-vent	part_copy
+shutter asm_copy
+shutter_style2 asm_copy
+dir_up dir
