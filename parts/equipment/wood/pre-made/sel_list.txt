@@ -14,6 +14,12 @@ wood-shutter asm_copy
 vinyl-shutter asm_copy
 truss asm_copy
 pallet asm_copy
+door_frame asm_copy
+door_hl part_copy
+door_test part_copy
+2x4x8-stud-wall asm_copy
+stud_wall asm_copy
+smart-wall asm_copy
 clapboards asm_copy
 roof-system asm_copy
 floor-system asm_copy
