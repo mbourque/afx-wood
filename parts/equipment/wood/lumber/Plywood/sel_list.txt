@@ -1,6 +1,7 @@
 plywood-4x8 part_copy
 plywood part_copy
 pt_plywood part_copy
+particle-board part_copy
 plywood-w-window part_copy
 ply_3_lines part_copy
 plywood_3_points part_copy
