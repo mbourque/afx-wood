@@ -13,6 +13,7 @@ vinyl-fence asm_copy
 vinyl-entrance asm_copy
 truss asm_copy
 pallet asm_copy
+saw-horse asm_copy
 door_frame asm_copy
 door_hl part_copy
 door_test part_copy
