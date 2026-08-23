@@ -1,3 +1,4 @@
+louver-vent part_copy
 wood-floor asm_copy
 8-foot-stud-wall asm_copy
 stairs asm_copy
@@ -10,8 +11,6 @@ top-down-template asm_copy
 wood-fence asm_copy
 vinyl-fence asm_copy
 vinyl-entrance asm_copy
-wood-shutter asm_copy
-vinyl-shutter asm_copy
 truss asm_copy
 pallet asm_copy
 door_frame asm_copy
@@ -25,5 +24,7 @@ roof-system asm_copy
 floor-system asm_copy
 arch-ceiling asm_copy
 box asm_copy
+../cabinetry dir
 furniture dir
+shutters dir
 dir_up dir

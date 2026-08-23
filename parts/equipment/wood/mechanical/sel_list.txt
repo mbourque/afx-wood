@@ -1,4 +1,4 @@
 duct-elbow part_copy
 duct-elbow2 part_copy
-pvc-elbow part_copy
+duct-elbow3 part_copy
 dir_up dir

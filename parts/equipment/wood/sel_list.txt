@@ -1,9 +1,8 @@
-assorted dir
 panels dir
 windows dir
 decorative dir
 lumber dir
-foundation dir
+masonry dir
 template-models dir
 joist-hangers dir
 Cabinetry dir

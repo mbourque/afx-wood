@@ -1,3 +1,0 @@
-cleats dir
-louvered dir
-dir_up dir

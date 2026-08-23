@@ -1,5 +1,5 @@
 plywood dir
-../assorted/cleats dir
+cleats dir
 2x3	dir
 2x4	dir
 2x6	dir

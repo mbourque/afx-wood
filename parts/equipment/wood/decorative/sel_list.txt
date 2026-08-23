@@ -7,4 +7,5 @@ plynth-block part_copy
 tin-ceiling part_copy
 corbel part_copy
 weathervane asm_copy
+../pre-made/shutters dir
 dir_up dir

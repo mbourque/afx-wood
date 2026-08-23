@@ -1,2 +1,4 @@
 bracket_corner part_copy
+bracket_corner2 part_copy
+bracket_angle_corner part_copy
 dir_up dir
