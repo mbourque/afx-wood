@@ -1,0 +1,9 @@
+turret-framing asm_copy
+roof-system asm_copy
+floor-system asm_copy
+door_frame asm_copy
+8-foot-stud-wall asm_copy
+2x4x8-stud-wall asm_copy
+truss asm_copy
+smart-wall asm_copy
+dir_up dir

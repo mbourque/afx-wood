@@ -1,0 +1,4 @@
+formica-counter part_copy
+granite-counter part_copy
+granite-backsplash part_copy
+dir_up dir

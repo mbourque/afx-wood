@@ -1,6 +1,6 @@
 louver-vent part_copy
 wood-floor asm_copy
-8-foot-stud-wall asm_copy
+framing dir
 stairs asm_copy
 workbench asm_copy
 fence asm_copy
@@ -11,18 +11,11 @@ top-down-template asm_copy
 wood-fence asm_copy
 vinyl-fence asm_copy
 vinyl-entrance asm_copy
-truss asm_copy
 pallet asm_copy
 saw-horse asm_copy
-door_frame asm_copy
 door_hl part_copy
 door_test part_copy
-2x4x8-stud-wall asm_copy
-stud_wall asm_copy
-smart-wall asm_copy
 clapboards asm_copy
-roof-system asm_copy
-floor-system asm_copy
 arch-ceiling asm_copy
 box asm_copy
 ../cabinetry dir
