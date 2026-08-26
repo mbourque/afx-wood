@@ -1,0 +1,3 @@
+pvc-elbow part_copy
+copper-elbow part_copy
+dir_up dir

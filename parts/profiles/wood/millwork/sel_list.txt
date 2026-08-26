@@ -1,3 +1,0 @@
-casing part_copy
-millwork part_copy
-dir_up dir

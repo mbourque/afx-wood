@@ -1,4 +1,6 @@
 corner-brackets dir
 joist-hangers dir
+mechanical dir
+plumbing dir
 ../../equipment/wood/lumber/cleats dir
 dir_up dir

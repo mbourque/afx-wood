@@ -2,13 +2,12 @@ crown part_copy
 half-round part_copy
 quarter-round part_copy
 casing part_copy
+millwork part_copy
 bead-casing part_copy
 round part_copy
 dental part_copy_copy
 mullion part_copy
 chair-rail part_copy
 profiles part_copy
-profiles-new part_copy
 chair-rail-new part_copy
-../millwork dir
 dir_up dir

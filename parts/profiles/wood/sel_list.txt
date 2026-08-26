@@ -2,12 +2,12 @@ studs dir
 boards dir
 dimensional dir
 beams dir
-mouldings dir
+molding dir
 steel dir
 foundation dir
-millwork dir
 fences dir
 stairs dir
 spindles dir
 mechanical dir
+plumbing dir
 dir_up dir

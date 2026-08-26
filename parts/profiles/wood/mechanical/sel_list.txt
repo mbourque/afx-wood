@@ -1,3 +1,2 @@
 rectangular_duct part_copy           
-pvc-pipe part_copy
 dir_up dir        
