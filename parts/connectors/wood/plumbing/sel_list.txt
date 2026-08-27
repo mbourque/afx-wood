@@ -3,4 +3,5 @@ pvc-coupler part_copy
 copper-elbow part_copy
 copper-coupler part_copy
 cast-iron-elbow part_copy
+cast-iron-coupler part_copy
 dir_up dir
