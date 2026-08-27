@@ -1,3 +1,4 @@
 pvc-pipe part_copy
 copper-pipe part_copy
+cast-iron-pipe part_copy
 dir_up dir        
