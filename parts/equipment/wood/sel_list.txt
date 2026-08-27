@@ -16,3 +16,4 @@ Skeletons dir
 Fences dir
 Mechanical dir
 ../../profiles/wood/Plumbing dir
+../../connectors/wood/Plumbing dir

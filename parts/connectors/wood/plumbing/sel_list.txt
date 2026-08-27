@@ -1,3 +1,5 @@
 pvc-elbow part_copy
+pvc-coupler part_copy
 copper-elbow part_copy
+copper-coupler part_copy
 dir_up dir
