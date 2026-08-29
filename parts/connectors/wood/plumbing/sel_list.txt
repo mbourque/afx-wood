@@ -4,4 +4,5 @@ copper-elbow part_copy
 copper-coupler part_copy
 cast-iron-elbow part_copy
 cast-iron-coupler part_copy
+cast-iron-t part_copy
 dir_up dir

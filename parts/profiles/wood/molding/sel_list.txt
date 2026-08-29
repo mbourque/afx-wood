@@ -10,4 +10,5 @@ mullion part_copy
 chair-rail part_copy
 profiles part_copy
 chair-rail-new part_copy
+cove-molding part_copy
 dir_up dir

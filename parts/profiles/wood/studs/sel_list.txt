@@ -1,4 +1,4 @@
-stud part
-strapping part
-stringer part
+stud part_copy
+strapping part_copy
+../dimensional dir
 dir_up dir
