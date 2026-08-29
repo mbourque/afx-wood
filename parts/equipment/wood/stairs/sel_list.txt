@@ -1,2 +1,4 @@
 newel-post-cap part_copy
+stairs asm_copy
+short-stairs asm_copy
 dir_up dir

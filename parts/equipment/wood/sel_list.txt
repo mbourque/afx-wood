@@ -15,5 +15,6 @@ Floor-plans dir
 Skeletons dir
 Fences dir
 Mechanical dir
+Landscaping dir
 ../../profiles/wood/Plumbing dir
 ../../connectors/wood/Plumbing dir

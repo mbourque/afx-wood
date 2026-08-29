@@ -14,5 +14,6 @@ insulation part_copy
 wood_4_lines part_copy
 paneling part_copy
 wainscotting part_copy
+wood-floor asm_copy
 ../pre-made dir
 dir_up dir

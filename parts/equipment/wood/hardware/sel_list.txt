@@ -1,2 +1,6 @@
 round-magnet part_copy
-fences_skel dir
+generic-nails part_copy
+nails-common part_copy
+nails-finishing part_copy
+nails-roofing part_copy
+window-latch asm_copy

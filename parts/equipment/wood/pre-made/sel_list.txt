@@ -1,7 +1,5 @@
 louver-vent part_copy
-wood-floor asm_copy
 framing dir
-stairs asm_copy
 workbench asm_copy
 fence asm_copy
 fence-wall asm_copy

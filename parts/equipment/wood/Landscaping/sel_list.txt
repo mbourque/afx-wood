@@ -1,0 +1,5 @@
+water part_copy
+step-stone part_copy
+grass part_copy
+stone-wall part_copy
+dir_up dir
