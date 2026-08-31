@@ -1,14 +1,9 @@
 louver-vent part_copy
 framing dir
 workbench asm_copy
-fence asm_copy
-fence-wall asm_copy
 square-column asm_copy
 speaker asm_copy
 top-down-template asm_copy
-wood-fence asm_copy
-vinyl-fence asm_copy
-vinyl-entrance asm_copy
 pallet asm_copy
 saw-horse asm_copy
 door_hl part_copy

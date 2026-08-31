@@ -4,5 +4,4 @@ fence-pickets part_copy
 vinyl-post part_copy
 vinyl-rail part_copy
 vinyl-pickets part_copy
-vinyl-arch part_copy
 dir_up dir
