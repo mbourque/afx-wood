@@ -9,7 +9,8 @@ corbel part_copy
 corbel-style2 part_copy
 corbel-style3 part_copy
 weathervane asm_copy
-gable-end-treatment asm_copy
-gable-end-treatment-arched asm_copy
+gable-bracket-style1 asm_copy
+gable-bracket-style2 asm_copy
+gable-bracket-style3 asm_copy
 ../pre-made/shutters dir
 dir_up dir
