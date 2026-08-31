@@ -1,5 +1,4 @@
 louver-vent part_copy
-acorn-pediment asm_copy
 framing dir
 workbench asm_copy
 fence asm_copy

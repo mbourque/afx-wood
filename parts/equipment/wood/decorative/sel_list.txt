@@ -12,5 +12,6 @@ weathervane asm_copy
 gable-bracket-style1 asm_copy
 gable-bracket-style2 asm_copy
 gable-bracket-style3 asm_copy
+acorn-pediment asm_copy
 ../pre-made/shutters dir
 dir_up dir
