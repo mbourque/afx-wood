@@ -3,6 +3,5 @@ wood-fence asm_copy
 vinyl-fence asm_copy
 vinyl-entrance asm_copy
 fence asm_copy
-fence-pickets part_copy
 fence-wall asm_copy
 dir_up dir
